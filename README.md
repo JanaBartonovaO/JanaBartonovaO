@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, world 👋
 
 <img src="https://janabartonovao.github.io/images/obrazek3.jpg" alt="Graf v Pythonu">
 
