@@ -2,7 +2,6 @@
 
 <img src="https://janabartonovao.github.io/images/obrazek2.jpg">
 
-
 <!--
 **JanaBartonovaO/JanaBartonovaO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
