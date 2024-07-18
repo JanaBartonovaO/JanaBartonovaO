@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" visibility:visible>
 
 
-<img scr="https://upload.wikimedia.org/wikipedia/commons/e/e3/Animhorse.gif", align="center">
+<img scr="https://upload.wikimedia.org/wikipedia/commons/e/e3/Animhorse.gif">
 
 
 <!--
