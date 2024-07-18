@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="oobrazek.jpg">
+<img src="https://janabartonovao.github.io/images/obrazek2.jpg">
 
 
 <!--
