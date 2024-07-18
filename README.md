@@ -1,6 +1,6 @@
 ## Hello, world 👋
 
-<img src="https://janabartonovao.github.io/images/obrazek3.jpg" alt="Graf v Pythonu">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="Graf v Pythonu">
 
 <!--
 **JanaBartonovaO/JanaBartonovaO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
